@@ -14,4 +14,4 @@
 ## Run docker image as container
 	docker run -p port1:port2 imageName:tag
 		
-		port2 is port on which application is running within the container and port1 is port which should be used by the user to connect to the container application
+	> port2 is port on which application is running within the container and port1 is port which should be used by the user to connect to the container application
