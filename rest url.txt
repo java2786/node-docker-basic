@@ -1,0 +1,5 @@
+http://localhost:5000/users		get all users
+http://localhost:5000/users/:name	get one user
+http://localhost:5000/users		post new user
+http://localhost:5000/users/:index	delete user
+http://localhost:5000/users/:index	edit user
